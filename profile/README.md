@@ -1,12 +1,10 @@
-## Hi there 👋
+## 2022 고려대학교 HandS 임베디드 소프트웨어 경진대회
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# @Todo
+* 개발계획서 작성
+* 기술동영상 제작
+* 영상처리 공부
+  * 라인트레이싱
+  * 색상 인식
+  * 화살표 인식 및 방향 분석
+  * 알파벳 인식 
